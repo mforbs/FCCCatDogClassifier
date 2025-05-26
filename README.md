@@ -3,7 +3,7 @@ My solution to this problem was pretty much to follow the guidance in the projec
 
 Creating the image generators was relatively straight forward following the documentation for the ImageDataGenerator in keras. Then the model itself was a combination of the lessons earlier in the course on CNN's and some general advice online for sizing the layers.
 
-It resulted in an accuracy of 78% which I'm rather happy with, and fulfils the 'extra credit' criteria on the project brief.
+It resulted in an accuracy of ~70% which I'm rather happy with, and fulfils the 'extra credit' criteria on the project brief. Given the random nature of the images (since I'm scaling shifting etc) the actual percentage varies on each run of the notebook, but on my two runs i've had 78% & 66%.
 
 # The brief
 You will be working on this project with Google Colaboratory.
